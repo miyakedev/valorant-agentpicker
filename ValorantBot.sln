@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValorantBot", "ValorantBot\ValorantBot.csproj", "{9E02917F-45F3-49D7-A2BD-128F72AA791F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E02917F-45F3-49D7-A2BD-128F72AA791F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E02917F-45F3-49D7-A2BD-128F72AA791F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E02917F-45F3-49D7-A2BD-128F72AA791F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E02917F-45F3-49D7-A2BD-128F72AA791F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C60ADA-BAD9-43CC-A4B3-4F418AFE0855}
+	EndGlobalSection
+EndGlobal
